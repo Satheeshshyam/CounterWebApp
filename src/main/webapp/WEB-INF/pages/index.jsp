@@ -1,5 +1,5 @@
 <html>
-<title> Charan Sample App </title>
+<title> Satheesh Web App </title>
 <style>
    body { 
     background-color: #ffa3c4;
@@ -25,7 +25,7 @@
 <br>
 <br>
 <div class='box'>
-<h1 align="center" style="color:#a3086f;"> Satheesh-Test Application!!!</h1>
+<h1 align="center" style="color:#a3086f;">Satheesh-Test Application!!!</h1>
 <!--<h1>Maven + Spring MVC Web Project Example</h1> -->
 <br> 
 <h2 align="center" style="color:green;">Message : ${message}.!</h2>
