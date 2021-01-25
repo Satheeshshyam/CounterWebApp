@@ -28,7 +28,7 @@
 <h1 align="center" style="color:#a3086f;">Satheesh Web Application!!!!!!</h1>
 <!--<h1>Maven + Spring MVC Web Project Example</h1> -->
 <br> 
-<h2 align="center" style="color:green;">Message : ${message}.!</h2>
+<h2 align="center" style="color:green;">Hey Guys, Message : ${message}.!</h2>
 <br>
 <h2 align="center" style="color:blue;">No. of Hits : ${counter}</h2>	
 </div>
